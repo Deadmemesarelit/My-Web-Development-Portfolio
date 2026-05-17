@@ -1,7 +1,7 @@
 const buttons = document.querySelectorAll('button');
 const links = [
 	{ id: 'weather-app', url: 'https://weather-app-xy4k.onrender.com/' },
-	{ id: 'movie-rater', url: 'https://movie-rating-b1ws.onrender.com/?title=Backrooms?&ai=true' },
+	{ id: 'movie-rater', url: 'https://movie-rating-b1ws.onrender.com' },
 	{ id: 'calories-calc', url: 'https://calories-calculator-rf1u.onrender.com' }
 ];
 
